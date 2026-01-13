@@ -1,6 +1,7 @@
 package com.platform.idpauth.domain.exception;
 
 import com.platform.idpauth.domain.enums.AuthErrorCode;
+import lombok.Data;
 
 /**
  * @author lhq
